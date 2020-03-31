@@ -14,5 +14,6 @@ public class HelloWorld {
         System.out.println("test merge code9");
         System.out.println("test merge code8");
         System.out.println("test last merge code1");
+        System.out.println("the last merge code");
     }
 }
