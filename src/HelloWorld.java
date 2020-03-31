@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("test Git");
         System.out.println("test Git1");
         System.out.println("test Git2");
+        System.out.println("test merge code");
     }
 }
