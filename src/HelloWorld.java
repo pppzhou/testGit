@@ -9,6 +9,8 @@ public class HelloWorld {
         System.out.println("test merge code3");
         System.out.println("test merge code5");
         System.out.println("test merge code4");
+        System.out.println("test merge code7");
         System.out.println("test merge code6");
+        System.out.println("test merge code8");
     }
 }
